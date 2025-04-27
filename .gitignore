@@ -1,0 +1,69 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+package-lock.json
+yarn.lock
+.pnpm-debug.log
+
+# Next.js
+.next/
+out/
+
+# Production
+dist/
+build/
+
+# Testing
+coverage/
+
+# Misc
+.DS_Store
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# VSCode
+.vscode/
+
+# Mac system files
+*.DS_Store
+
+# Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+*.csv
+*.dat
+
+# Optional
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Git
+.git/
+
+# Public runtime
+public/runtime/
+
+# Storybook
+.storybook-out/
+
+# Optional: Ignore Turborepo cache if using it
+turbo/
+
+# Optional: Ignore vercel output if deploying
+.vercel/output/
+
+# pnpm store (if you are using pnpm in global mode)
+.pnpm-store/
+
